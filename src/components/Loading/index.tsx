@@ -1,4 +1,3 @@
-
 import {Container,LoadIndicatior} from './styles'
 
 export function Loading(){
@@ -7,8 +6,5 @@ export function Loading(){
         <Container>
             <LoadIndicatior color="red" />
         </Container>
-
     )
-
-
 }
